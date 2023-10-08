@@ -18,6 +18,9 @@ En este repositorio se encuentran los archivos utilizados para la solución del 
 
 - Archivo jupyter notebook **Taller_2** En el cual está la solución del taller.
 
+- Archivo Python **utils_functions** Este archivo contiene funciones utilizadas para el desarrollo del taller.
+<br/><br/>
+
 - Carpeta **data**
     - Contiene el archivo **gapminder_final**.csv que es el dataset principal utilizado.
     - Contiene el archivo **HDI**.csv que es el dataset secundario utilizado para agregar la información del Indice de Desarrollo Humano.
