@@ -26,7 +26,7 @@ En este repositorio se encuentran los archivos utilizados para la solución del 
     - Contiene el archivo **HDI**.csv que es el dataset secundario utilizado para agregar la información del Indice de Desarrollo Humano.
 <br/><br/>
 
-- Archivo PDF **Informe Ejecutivo**
+- Archivo PDF **Informe ejecutivo**
 <br/><br/>
 
 ## Gracias
